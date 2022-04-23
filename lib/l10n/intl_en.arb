@@ -1,0 +1,18 @@
+{
+  "todoApp": "To-Do",
+  "myTasks": "My Tasks",
+  "ofs": "of",
+  "noTask": "No tasks Found :)",
+  "addTodo": "Add To-Do",
+  "title": "Title",
+  "date": "Date",
+  "priority": "Priority",
+  "updateTodo": "Update To-Do",
+  "validateTitle": "Please Enter a Task Title",
+  "validatePriority": "Please Select a Priority Level",
+  "low": "Low",
+  "medium": "Medium",
+  "high": "High",
+  "add": "Add",
+  "update": "Update"
+}
